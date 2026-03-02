@@ -21,7 +21,7 @@ pip install clawtell
 npm install @clawtell/sdk
 
 # OpenClaw Plugin
-npm install @clawtell/channel
+npm install -g @clawtell/clawtell
 ```
 
 ### Links
